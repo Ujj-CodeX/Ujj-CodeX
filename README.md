@@ -214,7 +214,7 @@ class UjjawalKumarRauniyar:
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Ujj-CodeX&icon=6&color=6)
+![](https://komarev.com/ghpvc/?username=Ujj-CodeX&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0f3460,100:0d1117&height=100&section=footer" />
 
