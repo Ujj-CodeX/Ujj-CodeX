@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4aa&height=200&section=header&text=Ujjawal%20Kumar%20Rauniyar&fontSize=40&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%C2%B7%20DRF%20%C2%B7%20Flask%20%C2%B7%20REST%20APIs&descAlignY=55&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4aa&height=200&section=header&text=Ujjawal%20Rauniyar&fontSize=40&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%C2%B7%20DRF%20%C2%B7%20Flask%20%C2%B7%20REST%20APIs&descAlignY=55&descColor=ffffff" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%90%8D;3+Deployed+Projects+%F0%9F%9A%80;45%2B+REST+API+Endpoints+%F0%9F%94%97;Open-Source+Contributor+%40+FOSSASIA+%F0%9F%8C%90;IIT+Madras+%7C+BCA+Final+Year+%F0%9F%8E%93;Open+to+Backend+%2F+Python+Roles+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%90%8D;3%2B+Deployed+Projects+%F0%9F%9A%80;45%2B+REST+API+Endpoints+%F0%9F%94%97;Open-Source+Contributor+%40+FOSSASIA+%F0%9F%8C%90;IIT+Madras+%7C+BCA+Final+Year+%F0%9F%8E%93;Open+to+Backend+%2F+Python+Roles+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ class UjjawalKumarRauniyar:
 
     education  = [
         "BS in Data Science & Applications — IIT Madras",
-        "BCA Final Year — MGKV Varanasi"
+        "BCA (2026) — MGKV Varanasi"
     ]
 
     stack      = {
@@ -33,7 +33,7 @@ class UjjawalKumarRauniyar:
         "databases" : ["PostgreSQL", "SQLite", "Redis", "Supabase"],
         "frontend"  : ["Vue.js", "HTML5", "CSS3", "Bootstrap"],
         "devops"    : ["Docker", "Git", "AWS EC2", "Render", "Vercel"],
-        "tools"     : ["Twilio", "APScheduler", "Postman"]
+        "tools"     : ["Twilio", "Groq API", "APScheduler", "Postman"]
     }
 
     currently  = "Contributing to FOSSASIA/eventyay-talk & deepening backend system design 🌱"
@@ -41,7 +41,7 @@ class UjjawalKumarRauniyar:
     available  = "Immediately ⚡"
 ```
 
-> 💼 **Summary:** Backend developer with hands-on experience building and deploying production-grade REST APIs using Django, DRF, and Flask. Shipped a 45+ endpoint blood donation platform (JeevanDaan+) with Celery/Redis-driven automation. Active open-source contributor to FOSSASIA/eventyay-talk. Pursuing a BS in Data Science & Applications at IIT Madras alongside a BCA.
+> 💼 **Summary:** Backend developer with hands-on experience building and deploying production-grade REST APIs using Django, DRF, and Flask. Shipped a 45+ endpoint blood donation platform (JeevanDaan+) with Celery/Redis-driven automation, and an AI-integrated party-planning agent using the Groq LLM API. Active open-source contributor to FOSSASIA/eventyay-talk. Pursuing a BS in Data Science & Applications at IIT Madras alongside a BCA.
 
 ---
 
@@ -49,7 +49,7 @@ class UjjawalKumarRauniyar:
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🩸 JeevanDaan+
 > **Blood Donation Platform** — _Flagship Production Project_
@@ -62,7 +62,11 @@ class UjjawalKumarRauniyar:
 - 🔐 JWT Auth, multi-role architecture (Admin/Donor/Recipient)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujj-CodeX)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://jeevandaan.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://www.jeevandaan.online/#/)
+
+</td>
+<td width="50%">
+
 
 </td>
 </tr>
@@ -108,6 +112,7 @@ class UjjawalKumarRauniyar:
 
 **Contributing to [FOSSASIA/eventyay-talk](https://github.com/fossasia/eventyay-talk)** — a Django/DRF/Vue (pretalx-based) event platform
 
+- 🔧 Fixed a serializer routing bug 
 - 🐛 Investigated and triaged issues in the core scheduling module
 
 </div>
@@ -177,15 +182,8 @@ class UjjawalKumarRauniyar:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ujj-CodeX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🎓 Certifications
 
