@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%90%8D;3%2B+Deployed+Projects+%F0%9F%9A%80;45%2B+REST+API+Endpoints+%F0%9F%94%97;Open-Source+Contributor+%40+FOSSASIA+%F0%9F%8C%90;IIT+Madras+%7C+BCA+Final+Year+%F0%9F%8E%93;Open+to+Backend+%2F+Python+Roles+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%90%8D;3+Deployed+Projects+%F0%9F%9A%80;45%2B+REST+API+Endpoints+%F0%9F%94%97;Open-Source+Contributor+%40+FOSSASIA+%F0%9F%8C%90;IIT+Madras+%7C+BCA+Final+Year+%F0%9F%8E%93;Open+to+Backend+%2F+Python+Roles+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,7 @@ class UjjawalKumarRauniyar:
         "databases" : ["PostgreSQL", "SQLite", "Redis", "Supabase"],
         "frontend"  : ["Vue.js", "HTML5", "CSS3", "Bootstrap"],
         "devops"    : ["Docker", "Git", "AWS EC2", "Render", "Vercel"],
-        "tools"     : ["Twilio", "Groq API", "APScheduler", "Postman"]
+        "tools"     : ["Twilio", "APScheduler", "Postman"]
     }
 
     currently  = "Contributing to FOSSASIA/eventyay-talk & deepening backend system design 🌱"
@@ -41,7 +41,7 @@ class UjjawalKumarRauniyar:
     available  = "Immediately ⚡"
 ```
 
-> 💼 **Summary:** Backend developer with hands-on experience building and deploying production-grade REST APIs using Django, DRF, and Flask. Shipped a 45+ endpoint blood donation platform (JeevanDaan+) with Celery/Redis-driven automation, and an AI-integrated party-planning agent using the Groq LLM API. Active open-source contributor to FOSSASIA/eventyay-talk. Pursuing a BS in Data Science & Applications at IIT Madras alongside a BCA.
+> 💼 **Summary:** Backend developer with hands-on experience building and deploying production-grade REST APIs using Django, DRF, and Flask. Shipped a 45+ endpoint blood donation platform (JeevanDaan+) with Celery/Redis-driven automation. Active open-source contributor to FOSSASIA/eventyay-talk. Pursuing a BS in Data Science & Applications at IIT Madras alongside a BCA.
 
 ---
 
@@ -49,7 +49,7 @@ class UjjawalKumarRauniyar:
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🩸 JeevanDaan+
 > **Blood Donation Platform** — _Flagship Production Project_
@@ -65,7 +65,6 @@ class UjjawalKumarRauniyar:
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=black)](https://jeevandaan.vercel.app)
 
 </td>
-
 </tr>
 <tr>
 <td width="50%">
@@ -109,7 +108,6 @@ class UjjawalKumarRauniyar:
 
 **Contributing to [FOSSASIA/eventyay-talk](https://github.com/fossasia/eventyay-talk)** — a Django/DRF/Vue (pretalx-based) event platform
 
-- 🔧 Fixed a serializer routing bug
 - 🐛 Investigated and triaged issues in the core scheduling module
 
 </div>
